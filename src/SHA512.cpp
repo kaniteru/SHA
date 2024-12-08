@@ -2,7 +2,7 @@
  * @brief Implementation of the SHA512 Algorithm
  */
 
-#include "SHA512.h"
+#include "../include/SHA512.hpp"
 #include <stdio.h>
 #include <string>
 #include <string.h>

@@ -1,11 +1,10 @@
-#include "SHA256.h"
-#include "SHA384.h"
-#include "SHA512.h"
+#include "SHA256.hpp"
+#include "SHA384.hpp"
+#include "SHA512.hpp"
 #include <iostream>
 #include <sstream>
 
-int main(int argc, char *argv[]){
-
+int main(int argc, char* argv[]) {
 	SHA256 sha256;
 	SHA384 sha384;
 	SHA512 sha512;

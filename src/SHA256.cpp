@@ -2,7 +2,7 @@
  * @brief Implementation of the SHA256 Algorithm
  */
 
-#include "SHA256.h"
+#include "../include/SHA256.hpp"
 #include <stdio.h>
 #include <string>
 #include <string.h>

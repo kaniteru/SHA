@@ -2,7 +2,7 @@
  * @brief Implementation of the SHA384 Algorithm
  */
 
-#include "SHA384.h"
+#include "../include/SHA384.hpp"
 #include <stdio.h>
 #include <string>
 #include <string.h>
